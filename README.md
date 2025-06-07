@@ -5,14 +5,12 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  <img src="https://www.nvidia.cn/content/nvidiaGDC/cn/zh_CN/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container/nv_image.coreimg.100.850.png/1724047464483/nvidia-logo-vert.png" alt="docker" width="40" height="40"/> 
-</p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-greatv.vercel.app/api?username=zz-zik&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="zz-zik" /></p>
 
 
 ### Hi there 👋
 
-My research interests are in computer vision, vision-language model and remote sensing image processing.
+My research interests are in computer vision, multimodality, and large language modeling. More projects at [Yu-Zhouz](https://github.com/Yu-Zhouz).
 
 </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
