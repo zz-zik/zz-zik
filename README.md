@@ -12,6 +12,10 @@
 
 My research interests are in computer vision, multimodality, and large language modeling. More projects at [Yu-Zhouz](https://github.com/Yu-Zhouz).
 
+
+I also share my technical insights and projects on CSDN. Check out my blog at [伪_装-CSDN博客](https://blog.csdn.net/weixin_62828995?spm=1000.2115.3001.5343). Currently, I have published **117** blog posts, got **229932** visits, and attracted **4743** followers.
+
+
 </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
