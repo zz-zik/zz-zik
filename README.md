@@ -31,12 +31,12 @@ I also share my technical insights and projects on CSDN. Check out my blog at [�
 📫 E-mail: zhoufei21@s.nuit.edu.cn
 
 
- 💬 **I am looking for jobs related to CV and LLM**
+ 💬 **I am looking for jobs related to CV and LLM and DL**
 
-
-**zz-zik/zz-zik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
+**zz-zik/zz-zik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
