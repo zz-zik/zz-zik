@@ -10,9 +10,9 @@
 <!-- CSDN Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zz-zik" alt="zz-zik" />
-  <img src="https://img.shields.io/badge/Total%20Views-<!--CSDN_VIEWS-->-blue" />
-  <img src="https://img.shields.io/badge/Original%20Posts-<!--CSDN_POSTS-->-green" />
-  <img src="https://img.shields.io/badge/Followers-<!--CSDN_FOLLOWERS-->-orange" />
+  <img src="https://img.shields.io/badge/Total%20Views-232570-blue" />
+  <img src="https://img.shields.io/badge/Original%20Posts-118-green" />
+  <img src="https://img.shields.io/badge/Followers-4823-orange" />
 <img align="center" src="https://github-readme-stats-greatv.vercel.app/api?username=zz-zik&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="zz-zik" />
 </p>
 
