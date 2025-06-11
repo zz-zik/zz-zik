@@ -1,11 +1,4 @@
-<!-- CSDN Stats -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=zz-zik" alt="zz-zik" /> 
-  <img src="https://img.shields.io/badge/Total%20Views-<!--CSDN_VIEWS-->-blue" />
-  <img src="https://img.shields.io/badge/Original%20Posts-<!--CSDN_POSTS-->-green" />
-  <img src="https://img.shields.io/badge/Followers-<!--CSDN_FOLLOWERS-->-orange" />
-</p>
-
+<!-- logo -->
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
@@ -14,6 +7,14 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-greatv.vercel.app/api?username=zz-zik&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="zz-zik" /></p>
 
+
+<!-- CSDN Stats -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=zz-zik" alt="zz-zik" /> 
+  <img src="https://img.shields.io/badge/Total%20Views-<!--CSDN_VIEWS-->-blue" />
+  <img src="https://img.shields.io/badge/Original%20Posts-<!--CSDN_POSTS-->-green" />
+  <img src="https://img.shields.io/badge/Followers-<!--CSDN_FOLLOWERS-->-orange" />
+</p>
 
 
 ### Hi there 👋
