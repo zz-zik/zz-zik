@@ -115,19 +115,19 @@ def update_readme(stats):
     with open('README.md', 'r', encoding='utf-8') as file:
         content = file.read()
 
-    # 定义替换模式和对应的完整URL格式
+    # 定义替换规则：基于正则表达式匹配 badge URL 中的数值部分
     replacements = {
         'views': (
-            r'badge/Total%20Views-\d+-blue\?style=social',
-            f'badge/Total%20Views-{stats["views"]}-blue?style=social'
+            r'(https://img\.shields\.io/badge/Total%20Views-)\d+(-blue)',
+            rf'\g<1>{stats["views"]}\g<2>'
         ),
         'posts': (
-            r'badge/Original%20Posts-\d+-green\?style=social',
-            f'badge/Original%20Posts-{stats["posts"]}-green?style=social'
+            r'(https://img\.shields\.io/badge/Original%20Posts-)\d+(-green)',
+            rf'\g<1>{stats["posts"]}\g<2>'
         ),
         'followers': (
-            r'badge/Followers-\d+-orange\?style=social',
-            f'badge/Followers-{stats["followers"]}-orange?style=social'
+            r'(https://img\.shields\.io/badge/Followers-)\d+(-orange)',
+            rf'\g<1>{stats["followers"]}\g<2>'
         )
     }
 
@@ -137,6 +137,7 @@ def update_readme(stats):
 
     with open('README.md', 'w', encoding='utf-8') as file:
         file.write(content)
+
 
 
 if __name__ == "__main__":
