@@ -38,7 +38,7 @@ I also share my technical insights and projects on CSDN. Check out my blog at [�
 
 
 
-📫 E-mail: zhoufei21@s.nuit.edu.cn
+📫 E-mail: zhouikfei@outlook.com
 
 
  💬 **I am looking for jobs related to CV and LLM and DL**
