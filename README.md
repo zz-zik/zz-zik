@@ -11,7 +11,7 @@
 <!-- CSDN Stats -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=zz-zik" alt="zz-zik" /> 
-  <img src="https://img.shields.io/badge/Total%20Views-330083-blue" />
+  <img src="https://img.shields.io/badge/Total%20Views-330206-blue" />
   <img src="https://img.shields.io/badge/Original%20Posts-128-green" />
   <img src="https://img.shields.io/badge/Followers-8848-orange" />
 </p>
